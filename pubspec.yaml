@@ -1,0 +1,10 @@
+name: issue_angular
+description: A sample web application
+environment:
+  sdk: '>=1.6.0 <2.0.0'
+dependencies:
+  angular: '>=1.0.0 <2.0.0'
+  intl: any
+  web_components: any
+transformers:
+- angular
